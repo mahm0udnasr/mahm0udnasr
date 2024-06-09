@@ -6,7 +6,7 @@ I'm Mahmoud Nasr, a passionate web developer focused on front-end development. I
 
 -  I'm always learning and growing in the world of web development.
 -  Feel free to ask me about JavaScript, React, and all things front-end.
--  You can reach me at [mahmoudnasrvip@gmail.com](mailto:mahmoudnasrvip@gmail.com).
+-  You can reach me at [contact.mahmoudnasr@gmail.com](mailto:contact.mahmoudnasr@gmail.com).
 
 ## Projects
 
