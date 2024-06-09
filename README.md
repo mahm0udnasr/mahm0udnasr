@@ -1,16 +1,31 @@
-## Hi there 👋
+# Mahmoud Nasr
 
-<!--
-**mahm0udnasr/mahm0udnasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahmoud Nasr, a passionate web developer focused on front-end development. I'm always working on improving my skills and keeping up with the latest in tech. Currently, I'm studying at the Higher Institute of Computers and Information and just finished my first year with a GPA of 3.2.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm always learning and growing in the world of web development.
+- 💬 Feel free to ask me about JavaScript, React, and all things front-end.
+- 📫 You can reach me at [mahmoudnasrlite@gmail.com](mailto:mahmoudnasrlite@gmail.com).
+
+## Projects
+
+### [DigitalMedia](https://mahm0udnasr.github.io/DigitalMedia/)
+A project for markting on social media
+
+### [Haastag](https://haas-tag.com/)
+A project to but services in social
+
+### [XO Game](https://mahm0udnasr.github.io/XOgame/)
+A game build with html, css, pure js.
+
+## Skills
+
+- **Programming Languages:** JavaScript, Python, C++
+- **Technologies:** React, Node.js, Express, MongoDB
+- **Tools:** Git, VSCode
+
+## Connect with Me
+
+[[Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/mahm0udnasr)
+[[WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-blue)](https://wa.me/+201005566102)
