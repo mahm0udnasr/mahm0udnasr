@@ -21,8 +21,8 @@ A game build with html, css, pure js.
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Python, C++
-- **Technologies:** React, Node.js, Express, MongoDB
+- **Programming Languages:** JavaScript
+- **Technologies:** React
 - **Tools:** Git, VSCode
 
 ## Connect with Me
