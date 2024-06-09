@@ -27,5 +27,5 @@ A game build with html, css, pure js.
 
 ## Connect with Me
 
-[[Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/mahm0udnasr)
-[[WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-blue)](https://wa.me/+201005566102)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/mahm0udnasr)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-blue)](https://wa.me/+201005566102)
