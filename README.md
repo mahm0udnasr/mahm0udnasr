@@ -10,11 +10,14 @@ I'm Mahmoud Nasr, a passionate web developer focused on front-end development. I
 
 ## Projects
 
-### [DigitalMedia](https://mahm0udnasr.github.io/DigitalMedia/)
-A project for markting on social media
+### [Tanweer Platform](https://mahm0udnasr.github.io/tanweer/)
+A platform for treating autism for children
 
 ### [Haastag](https://mahm0udnasr.github.io/hastag/)
 A project to but services in social
+
+### [DigitalMedia](https://mahm0udnasr.github.io/DigitalMedia/)
+A project for markting on social media
 
 ### [XO Game](https://mahm0udnasr.github.io/XOgame/)
 A game build with html, css, pure js.
