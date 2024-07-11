@@ -13,6 +13,12 @@ I'm Mahmoud Nasr, a passionate web developer focused on front-end development. I
 ### [Haastag](https://mahm0udnasr.github.io/hastag/)
 A project to but services in social
 
+### [NikeStore](https://mahm0udnasr.github.io/ecommerce/)
+A e-commerce store project with simple shopiing cart
+
+### [Tanwer](http://tanwer.rf.gd/?i=1)
+A platform for solving autism problems in children
+
 ### [DigitalMedia](https://mahm0udnasr.github.io/DigitalMedia/)
 A project for markting on social media
 
