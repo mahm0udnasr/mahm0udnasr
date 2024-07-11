@@ -10,7 +10,7 @@ I'm Mahmoud Nasr, a passionate web developer focused on front-end development. I
 
 ## Projects
 
-### [Haastag](https://mahm0udnasr.github.io/hastag/)
+### [Haastag](https://haash-tag.com/)
 A project to but services in social
 
 ### [NikeStore](https://mahm0udnasr.github.io/ecommerce/)
