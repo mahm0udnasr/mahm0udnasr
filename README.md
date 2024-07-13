@@ -1,37 +1,70 @@
-# Mahmoud Nasr
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 <b> <i>MahmoudNasr</i></b>
 
-I'm Mahmoud Nasr, a passionate web developer focused on front-end development. I'm always working on improving my skills and keeping up with the latest in tech. Currently, I'm studying at the Higher Institute of Computers and Information and just finished my first year with a GPA of 3.2.
+[![](https://img.shields.io/badge/-@_mahm0udnasr-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/_mahm0udnasr)
+[![](https://img.shields.io/badge/-@mahm0udnasr-%23181717?style=flat-square&logo=github)](https://github.com/mahm0udnasr)
+[![](https://img.shields.io/badge/-@mhm0udnasr-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mhm0udnasr)
+[![](https://img.shields.io/badge/-@mahm0udnasr-%23181717?style=flat-square&logo=telegram)](https://t.me/mahm0udnasr)
+<br />
+<br />
+📝 ***Feel free to contact me. I am always here ...*** [![Github](https://img.shields.io/github/followers/mahm0udnasr?label=Follow%20Me&style=social)](https://github.com/mahm0udnasr)
 
-## About Me
+<br />
 
--  I'm always learning and growing in the world of web development.
--  Feel free to ask me about JavaScript, React, and all things front-end.
--  You can reach me at [email](mailto:contact.mahmoudnasr@gmail.com).
+I'm a self-taught passionate Web developer from <b>Egypt</b>
 
-## Projects
+**About me**
 
-### [Haastag](https://haash-tag.com/)
-A project to but services in social
+- 👨‍💻 I Worked as a Remote Frontend Developer with 1+ years of experience and Worked on several Freelance projects
 
-### [NikeStore](https://mahm0udnasr.github.io/ecommerce/)
-A e-commerce store project with simple shopiing cart
+- ❤️ I love writing Javascript , and building projects with React
 
-### [Tanwer](http://tanwer.rf.gd/?i=1)
-A platform for solving autism problems in children
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-### [DigitalMedia](https://mahm0udnasr.github.io/DigitalMedia/)
-A project for markting on social media
+#### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-### [XO Game](https://mahm0udnasr.github.io/XOgame/)
-A game build with html, css, pure js.
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-redux-%23282C34?style=flat-square&logo=redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 
-## Skills
+📚 **UI Frameworks** 
+<br>
+<br>
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![BootStrap](https://img.shields.io/badge/-bootstrap-%23000000?style=flat-square&logo=bootstrap&&logoColor=48B0F1)
 
-- **Programming Languages:** JavaScript
-- **Technologies:** React
-- **Tools:** Git, VSCode
+🚩 **Module Bundlers** <br>
+<br>
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
-## Connect with Me
+🌍 **Deployment platforms:**
+<br>
+<br>
+![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
+  
+  🧐 **Knowledge of:**<br>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue)](https://t.me/mahm0udnasr)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-blue)](https://wa.me/+201005566102)
+`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `AXIOS`, `Object-Oriented Programming`, `data structures and algorithms`.
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![mahm0udnasr's github stats](https://github-readme-stats.vercel.app/api?username=mahm0udnasr&show_icons=true)
