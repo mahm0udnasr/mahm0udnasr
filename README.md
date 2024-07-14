@@ -16,7 +16,7 @@ I'm a self-taught passionate Web developer from <b>Egypt</b>
 
 - 👨‍💻 I Worked as a Remote Frontend Developer with 1+ years of experience and Worked on several Freelance projects
 
-- ❤️ I love writing Javascript , and building projects with React
+- ❤️ I love writing Javascript <!-- , and building projects with React -->
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
