@@ -24,7 +24,7 @@ I'm a self-taught passionate Web developer from <b>Egypt</b>
 
 - 🛠️ I have some basic experience with technologies like PHP (Laravel), python, c++
 
-- - 💬 Ask me about anything [here](https://notmahmoud.sarhne.com)
+- 💬 Ask me about anything [here](https://notmahmoud.sarhne.com)
 
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
@@ -38,7 +38,7 @@ I'm a self-taught passionate Web developer from <b>Egypt</b>
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-redux-%23282C34?style=flat-square&logo=redux)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
