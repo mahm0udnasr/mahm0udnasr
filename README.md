@@ -8,9 +8,6 @@
 
 <br />
 <br />
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/mahm0udnasr?label=Follow%20Me&style=social)](https://github.com/mahm0udnasr)
-
-<br />
 
 I'm a self-taught passionate Web developer from <b>Egypt</b>
 
