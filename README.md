@@ -66,11 +66,3 @@
 <!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) -->
 <!-- ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff) -->
-  
-  🧐 **Knowledge of:**<br>
-
-`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `AXIOS`,`etc...`
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![mahm0udnasr's github stats](https://github-readme-stats.vercel.app/api?username=mahm0udnasr&show_icons=true)
