@@ -1,11 +1,11 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 <b> <i>MahmoudNasr</i></b>
 
-[![](https://img.shields.io/badge/-@_mahm0udnasr-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/_mahm0udnasr)
-[![](https://img.shields.io/badge/-@mahm0udnasr-%23181717?style=flat-square&logo=telegram)](https://t.me/mahm0udnasr)
-[![](https://img.shields.io/badge/-@mahm0udnasr-%23181717?style=flat-square&logo=github)](https://github.com/mahm0udnasr)
-[![](https://img.shields.io/badge/-@mhm0udnasr-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mhm0udnasr)
-[![](https://img.shields.io/badge/-@mahm0udnasr-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahm0udnasr)
-[![](https://img.shields.io/badge/-@mahm0udnasr-%231DA1F2?style=flat-square&logo=instagram&logoColor=E1306C)](https://www.instagram.com/_mahm0udnasr)
+[![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter)](https://twitter.com/_mahm0udnasr)
+[![](https://img.shields.io/badge/-Telegram-%23181717?style=flat-square&logo=telegram)](https://t.me/mahm0udnasr)
+<!-- [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/mahm0udnasr) -->
+[![](https://img.shields.io/badge/-Facebook-%231DA1F2?style=flat-square&logo=facebook)](https://www.facebook.com/mhm0udnasr)
+[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahm0udnasr)
+[![](https://img.shields.io/badge/-Instagram-%231DA1F2?style=flat-square&logo=instagram)](https://www.instagram.com/_mahm0udnasr)
 <br />
  I'm a self-taught passionate Web developer from <b>Egypt</b>
 
