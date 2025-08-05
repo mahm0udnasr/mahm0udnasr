@@ -1,49 +1,78 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 <b> <i>MahmoudNasr</i></b>
+<h1 align="center">Hi there 👋, I'm Mahmoud Nasr</h1>
+<p align="center">
+  <i>A self-taught full-stack developer passionate about building useful things on the web.</i>
+</p>
 
-[![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter)](https://twitter.com/_mahm0udnasr)
-[![](https://img.shields.io/badge/-Telegram-%23181717?style=flat-square&logo=telegram)](https://t.me/mahm0udnasr)
-[![](https://img.shields.io/badge/-Facebook-%231DA1F2?style=flat-square&logo=facebook)](https://www.facebook.com/mhm0udnasr)
-[![](https://img.shields.io/badge/-Linkedin-%231DA1F2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahm0udnasr)
-[![](https://img.shields.io/badge/-Instagram-%231DA1F2?style=flat-square&logo=instagram)](https://www.instagram.com/_mahm0udnasr)
-<br />
- I'm a self-taught passionate Web developer from <b>Egypt</b>
+<p align="center">
+  <a href="https://twitter.com/_mahm0udnasr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://t.me/mahm0udnasr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/mhm0udnasr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahm0udnasr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_mahm0udnasr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
-**About me**
+---
 
-- 👨‍💻 I Worked as a Remote Frontend Developer with 1+ years of experience and Worked on several Freelance projects
+## 🧑‍💻 About Me
 
-- ❤️ I love writing Javascript, and building projects with React
+- 🌍 Based in Egypt 🇪🇬
+- 👨‍💻 I'm a self-taught Full Stack Web Developer with a strong focus on building real projects.
+- 🚀 Proficient in the **MERN && PERN stack**.
+- 🔧 I care about **System Design**, **Backend Structure**, and writing clean, reusable code.
+- 💬 Ask me about anything via [Telegram](https://t.me/mahm0udnasr)
 
-- 🖖 JavaScript | React Js | NodeJS
+---
 
-- 🛠️ I have some basic experience with technologies like PHP (Laravel), python, c++
+## 🛠 Tech Stack
 
-- 💬 Ask me about anything [here](https://notmahmoud.sarhne.com)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
 
-#### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+### 🧠 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer)
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-redux-%23282C34?style=flat-square&logo=redux)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### ⚒ Tools & DevOps
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-📚 **UI Frameworks** 
-<br>
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![BootStrap](https://img.shields.io/badge/-bootstrap-%23000000?style=flat-square&logo=bootstrap&&logoColor=48B0F1)
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+---
 
-🚩 **Module Bundlers** <br>
-<br>
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
+## 🚧 Currently Working On
+
+- 🏗️ Learning **Next.js**, and **advanced backend patterns**
+- 🧠 Deepening my knowledge in **System Design**
+- ✍️ Writing clean, modular, scalable code for backend services
+
+---
+
+## 📌 Fun Facts
+
+- 💡 I like turning theoretical concepts into practical side-projects
+- 📒 I document what I learn and explain it in my own words
+
+---
+
+## 📫 Reach Me
+
+You can find me on social platforms or ask me directly on [Telegram](https://t.me/mahmoudnasr)
+
+---
