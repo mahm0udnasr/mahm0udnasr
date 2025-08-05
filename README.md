@@ -42,7 +42,7 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-444?style=flat-square&logo=tailwind-css)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer)
 
 ### ⚒ Tools & DevOps
