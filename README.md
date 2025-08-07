@@ -17,7 +17,7 @@
 
 - 🌍 Based in Egypt 🇪🇬
 - 👨‍💻 I'm a self-taught Full Stack Web Developer with a strong focus on building real projects.
-- 🚀 Proficient in the **MERN && PERN stack**.
+- 🚀 Proficient in the **MERN & PERN stack**.
 - 🔧 I care about **System Design**, **Backend Structure**, and writing clean, reusable code.
 - 💬 Ask me about anything via [Telegram](https://t.me/mahm0udnasr)
 
@@ -60,13 +60,6 @@
 - 🏗️ Learning **Next.js**, and **advanced backend patterns**
 - 🧠 Deepening my knowledge in **System Design**
 - ✍️ Writing clean, modular, scalable code for backend services
-
----
-
-## 📌 Fun Facts
-
-- 💡 I like turning theoretical concepts into practical side-projects
-- 📒 I document what I learn and explain it in my own words
 
 ---
 
