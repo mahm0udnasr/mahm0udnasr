@@ -66,5 +66,3 @@
 ## 📫 Reach Me
 
 You can find me on social platforms or ask me directly on [Telegram](https://t.me/mahmoudnasr)
-
----
