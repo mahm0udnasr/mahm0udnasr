@@ -15,7 +15,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🌍 Based in Egypt 🇪🇬
 - 👨‍💻 I'm a self-taught Full Stack Web Developer with a strong focus on building real projects.
 - 🚀 Proficient in the **MERN & PERN stack**.
 - 🔧 I care about **System Design**, **Backend Structure**, and writing clean, reusable code.
