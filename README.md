@@ -15,10 +15,10 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍💻 I'm a self-taught Full Stack Web Developer with a strong focus on building real projects.
-- 🚀 Proficient in the **MERN & PERN stack**.
-- 🔧 I care about **System Design**, **Backend Structure**, and writing clean, reusable code.
-- 💬 Ask me about anything via [Telegram](https://t.me/mahm0udnasr)
+- 💻 **Full Stack Web Developer** specializing in building scalable, high-quality web applications using **MERN & PERN** stacks.  
+- 🚀 Passionate about turning ideas into real-world, production-ready projects.  
+- 🛠 Focused on **System Design**, **Backend Architecture**, and writing clean, reusable, and maintainable code.  
+- 💬 Reach me anytime on [Telegram](https://t.me/mahm0udnasr)  
 
 ---
 
