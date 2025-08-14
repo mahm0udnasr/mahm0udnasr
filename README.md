@@ -56,9 +56,7 @@
 
 ## 🚧 Currently Working On
 
-- 🏗️ Learning **Next.js**, and **advanced backend patterns**
-- 🧠 Deepening my knowledge in **System Design**
-- ✍️ Writing clean, modular, scalable code for backend services
+- Advanced **Next.js**.
 
 ---
 
