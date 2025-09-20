@@ -13,47 +13,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 💻 **Full Stack Web Developer** specializing in building scalable, high-quality web applications using **MERN & PERN** stacks.  
-- 🚀 Passionate about turning ideas into real-world, production-ready projects.  
-- 🛠 Focused on **System Design**, **Backend Architecture**, and writing clean, reusable, and maintainable code.  
-- 💬 Reach me anytime on [Telegram](https://t.me/mahm0udnasr)  
-
+-  **Full Stack Web Developer** specializing in building scalable, high-quality web applications using **MERN & PERN** stacks.  
+-  Passionate about turning ideas into real-world, production-ready projects.  
+-  Focused on **System Design**, **Backend Architecture**, and writing clean, reusable, and maintainable code.
+- 
 ---
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
-
-### 🧠 Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-444?style=flat-square&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer)
-
-### ⚒ Tools & DevOps
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📫 Reach Me
+##  Reach Me
 
 You can find me on social platforms or ask me directly on [Telegram](https://t.me/mahmoudnasr)
