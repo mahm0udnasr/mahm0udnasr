@@ -15,10 +15,11 @@
 
 ##  About Me
 
--  **Full Stack Web Developer** specializing in building scalable, high-quality web applications using **MERN & PERN** stacks.  
--  Passionate about turning ideas into real-world, production-ready projects.  
--  Focused on **System Design**, **Backend Architecture**, and writing clean, reusable, and maintainable code.
-- 
+- BIS student passionate about web development and problem-solving.  
+- Self-taught **Full Stack Developer** who enjoys learning by building real-world projects.
+- Mainly working with the **MERN Stack**, while exploring other modern web technologies along the way.  
+- Always curious, always learning - I believe the best way to grow is by creating, experimenting, and sharing knowledge.
+
 ---
 
 <p align="center">
