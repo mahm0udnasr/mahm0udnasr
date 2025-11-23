@@ -26,7 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mahm0udnasr&show_icons=true&theme=graywhite" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahm0udnasr&layout=compact&langs_count=10&theme=graywhite"/>
   <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=mahm0udnasr&theme=default"/>
+    
+    ![Github Status](https://streak-stats.demolab.com/?user=mahm0udnasr)
+    
   </p>
 </p>
 
