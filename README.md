@@ -28,7 +28,9 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=mahm0udnasr&theme=default.svg)](https://git.io/streak-stats)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=mahm0udnasr.svg)
+
 </p>
 
 ---
