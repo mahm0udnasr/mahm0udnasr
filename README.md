@@ -27,13 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahm0udnasr&layout=compact&langs_count=10&theme=graywhite"/>
 </p>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mahm0udnasr&show_icons=true&theme=graywhite" />
-
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahm0udnasr&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
