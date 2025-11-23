@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahm0udnasr&theme=default.svg" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mahm0udnasr&theme=default.svg)](https://git.io/streak-stats)
 </p>
 
 ---
