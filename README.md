@@ -27,8 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahm0udnasr&layout=compact&langs_count=10&theme=graywhite"/>
 </p>
 
-  ![Github Status](https://streak-stats.demolab.com/?user=mahm0udnasr)
-
 ---
 
 ##  Reach Me
