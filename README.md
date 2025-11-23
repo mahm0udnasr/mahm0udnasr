@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[GitHub Streak](https://streak-stats.demolab.com?user=mahm0udnasr&theme=tokyonight&hide_border=true)]
+[GitHub Streak](https://streak-stats.demolab.com?user=mahm0udnasr)
 
 </div>
 
