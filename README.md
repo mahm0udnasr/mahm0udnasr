@@ -29,7 +29,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mahm0udnasr)
+<img src="https://streak-stats.demolab.com?user=mahm0udnasr&show_icons=true&theme=graywhite" />
 
 </div>
 
