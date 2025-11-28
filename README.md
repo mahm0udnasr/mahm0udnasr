@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=mahm0udnasr&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&v=1764309281516" />
+</p>
+
+<p align="center">
   <a href="https://twitter.com/_mahm0udnasr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://t.me/mahm0udnasr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
   <a href="https://www.facebook.com/mhm0udnasr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
@@ -25,10 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahm0udnasr&show_icons=true&theme=graywhite" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahm0udnasr&layout=compact&langs_count=10&theme=graywhite"/>
-</p>
-
-<p align="center">
-  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=mahm0udnasr&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&v=1764309281516" />
 </p>
 
 ---
