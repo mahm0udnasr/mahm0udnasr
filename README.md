@@ -8,11 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/_mahm0udnasr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://t.me/mahm0udnasr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
   <a href="https://www.facebook.com/mhm0udnasr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mahm0udnasr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_mahm0udnasr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
