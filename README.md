@@ -27,5 +27,3 @@
 ##  Reach Me
 
 You can find me on social platforms or ask me directly on [Telegram](https://t.me/mahmoudnasr)
-
-or can contact me on email: contact.mahmoudnasr@gmail.com
